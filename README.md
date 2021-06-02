@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @valprateek
+- 👋 Hi, I’m Prateek
 - 👀 I’m interested in Android Development
 - 🌱 I’m currently learning Dependency Injection & Caching
 - 💞️ I’m looking to collaborate on Android Developer
